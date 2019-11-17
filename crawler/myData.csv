@@ -1,0 +1,198 @@
+	country	capital	languages	ethnic groups	religion groups
+0	Afghanistan	Kabul	 ,Pashto ,Dari	 ,Pashtun ,Tajik ,Hazara ,Uzbek ,Aimaq ,Turkmen ,Baloch ,others	 ,Muslims ,others
+1	Albania	Tirana	 ,Albanian	 ,Greek ,Aromanian ,Macedonian	 ,Albanian
+2	Algeria			 ,Arabic ,Berber	 ,French ,Algerian Arabic (Darja)
+3	Andorra			 ,Catalan	 ,Spanish ,Portuguese ,French
+4	Angola	Luanda	 ,Portuguese	 ,Kikongo ,Kimbundu ,Umbundu	 ,Ovimbundu ,Ambundu ,Bakongo ,Mestiço ,Chinese ,European
+5	Antigua_and_Barbuda			 ,English	 ,Antiguan and Barbudan Creole
+6	Argentina				 ,Guaraní ,Corrientes ,Qom ,Mocoví ,Wichí ,Chaco
+7	Armenia	Armenian	 ,Armenians ,Yazidis ,Russians	 ,Christianity	 ,Armenian
+8	Australia	Sydney	 ,English	 ,Various ,Christianity ,No religion ,Islam ,Buddhism ,Hinduism ,Sikhism ,Judaism ,Other	 ,Australian ,Aussie
+9	Austria	German	 ,Hungarian ,Slovene ,Burgenland Croatian	 ,Austrians ,Yugoslavs ,Germans ,Turks	 ,Austrian
+10	Azerbaijan	Baku	 ,Azerbaijani	 ,Armenian ,Avar ,Budukh ,Georgian ,Juhuri ,Khinalug ,Kryts ,Kurdish ,Lezgian ,Russian ,Rutul ,Talysh ,Tat ,Tsakhur ,Udi	 ,Azerbaijani ,Lezgian ,Armenian ,Russian ,Talysh ,others
+11	Bahamas			 ,English	 ,Bahamian Creole
+12	Bahrain	Manama	 ,Arabic	 ,English	 ,Arab ,Bahraini people
+13	Bangladesh			 ,Bengali	 ,Bengalis ,Chakmas ,Biharis ,Marmas ,Santhals ,Mros ,Tanchangyas ,Bawms ,Tripuris ,Khumis ,Kukis ,Garos ,Bisnupriya Manipuris
+14	Barbados	Bridgetown	 ,English	 ,Bajan Creole	 ,Afro-Barbadian ,Multiracial ,White Barbadian ,Indo-Bajans
+15	Belarus	Belarusian	 ,Polish ,Ukrainian ,Yiddish	 ,Belarusians ,Russians ,Poles ,Ukrainians	 ,Belarusian
+16	Belgium			 ,Dutch ,French ,German	 ,Demographics
+17	Belize			 ,Belize City	 ,English
+18	Benin	Porto-Novo	 ,Cotonou	 ,French	 ,Fon ,Yoruba ,Bariba
+19	Bhutan	Thimphu	 ,Dzongkha	 ,Vajrayana Buddhism ,official religion ,Hinduism	 ,Bhutanese
+20	Bolivia		 ,Sucre ,La Paz		 ,Spanish ,36 indigenous languages ,Araona ,Aymara ,Ayoreo ,Baure ,Canichana ,Cavineña ,Cayuvava ,Chácobo ,Chimane ,Chiquitano ,Eastern Bolivian Guaraní ,Ese Ejja ,Guaraní ,Guarayu ,Ignaciano ,Itene ,Itonama ,Kallawaya ,Leco ,Mosetén ,Movima ,Pakawara ,Pauserna ,Piro ,Puquina ,Quechua ,Reyesano ,Sirionó ,Tacana ,Toromono ,Trinitario ,Uru-Chipaya ,Wichí Lhamtés Nocten ,Yaminawa ,Yuki ,Yuracaré
+21	Bosnia_and_Herzegovina	[1]	 ,Bosnian ,Serbian ,Croatian	 ,Bosnian	 ,Federal ,parliamentary ,constitutional ,republic
+22	Botswana	Gaborone	 ,English ,Setswana	 ,Tswana ,Kalanga ,Basarwa ,White	 ,Christian ,No religion ,African traditional religion ,Baha'i ,Hindu ,Islam ,Rastafarian
+23	Brazil				 ,Portuguese
+24	Brunei	Bandar Seri Begawan	 ,Malay	 ,English	 ,Brunei Malay ,Tutong ,Kedayan ,Belait ,Chinese ,Hokkien ,Hakka Chinese ,Standard Chinese ,Cantonese ,Murut ,Dusun ,Brunei Bisaya
+25	Bulgaria	Sofia	 ,Bulgarian	 ,Cyrillic	 ,Bulgarians ,Turks ,Roma
+26	Burkina_Faso			 ,French	 ,Mòoré ,Fula ,Dioula
+27	Burundi	Gitega	 ,Bujumbura	 ,Kirundi ,French ,English	 ,Hutu ,Tutsi ,Twa
+28	Cabo_Verde	Praia	 ,Portuguese	 ,Cape Verdean Creole	 ,Cape Verdean
+29	Cambodia	Phnom Penh	 ,Khmer	 ,English ,French	 ,Khmer
+30	Cameroon			 ,Douala	 ,English ,French
+31	Canada	Ottawa	 ,Toronto	 ,English ,French	 ,European ,Asian ,Indigenous ,Caribbean and Latin American ,African ,Oceanian
+32	Central_African_Republic			 ,French ,Sango	 ,Baggara Arabs ,Baka ,Banda ,Bayaka ,Fula ,Gbaya ,Kara ,Kresh ,Mbaka ,Mandja ,Ngbandi ,Sara ,Vidiri ,Wodaabe ,Yakoma ,Yulu ,Zande ,others
+33	Chad	N'Djamena	 ,Arabic ,French	 ,Sara ,Kanembu ,Buduma ,Arab ,Masalit ,Gorane ,Masa ,Musgum ,Other Chadian ethnicities	 ,Chadian
+34	Chile			 ,Himno Nacional de Chile	
+35	China	Shanghai	 ,Standard Chinese	 ,Mongolian ,Uyghur ,Tibetan ,Zhuang ,various others	 ,Simplified Chinese
+36	Colombia			 ,Spanish ,English ,archipelago of San Andrés, Providencia and Santa Catalina	
+37	Comoros			 ,Comorian ,Arabic ,French	 ,Afro-Arab ,Malagasy
+38	Democratic_Republic_of_the_Congo	Kinshasa	 ,French	 ,Lingala ,Kikongo ,Swahili ,Tshiluba	 ,Ethnic groups
+39	Republic_of_the_Congo	Brazzaville	 ,French	 ,Kituba ,Kikongo ,Lingala	 ,Kongo ,Sangha ,Teke ,M'Bochi
+40	Costa_Rica	San José	 ,Spanish	 ,Mekatelyu ,Bribri ,Patois	 ,White/Castizo ,Mestizo ,Mulatto ,Amerindian ,Black
+41	Ivory_Coast				 ,Abidjan
+42	Croatia	Zagreb	 ,Croatian	 ,Latin	 ,Croats ,Serbs ,others
+43	Cuba			 ,Spanish	 ,White ,Mulatto ,Mestizo ,Zambo ,Pardo ,Black
+44	Cyprus	Greek	 ,Armenian ,Cypriot Arabic ,Russian	 ,Cypriot Greek ,Cypriot Turkish	 ,Greek Cypriots ,Turkish Cypriots ,Armenians ,Maronites
+45	Czechia			 ,Czech	 ,Slovak ,German ,Polish ,Belarusian ,Greek ,Hungarian ,Romani ,Russian ,Rusyn ,Serbian ,Ukrainian ,Vietnamese
+46	Denmark	Copenhagen	 ,Danish	 ,Faroese ,Greenlandic ,German	 ,Church of Denmark ,Church of the Faroe Islands
+47	Djibouti			 ,French ,Arabic ,Somali	 ,Afar
+48	Dominica			 ,English	 ,Dominican Creole French
+49	Dominican_Republic			 ,Spanish	 ,Multiracial ,Mulatto ,Mestizo ,White ,Black ,Chinese ,Japanese
+50	Ecuador			 ,Spanish	 ,Kichwa ,Shuar
+51	Egypt			 ,Arabic	 ,Egyptian Arabic
+52	El_Salvador			 ,Spanish	 ,Mestizo ,White ,Indigenous ,Black
+53	Equatorial_Guinea	Malabo	 ,Bata	 ,Spanish ,French ,Portuguese	 ,Fang ,Bube ,Combe ,Pidgin English ,Annobonese ,Igbo
+54	Eritrea	Asmara		 ,Tigrinya ,Beja ,Arabic ,Tigre ,Kunama ,Saho ,Bilen ,Nara ,Afar ,English	 ,Tigrinya ,Arabic ,English
+55	Estonia	Estonian	 ,Estonians ,Russians ,Ukrainians ,Belarusians ,Finns	 ,Estonian	 ,Unitary ,parliamentary ,republic
+56	Eswatini			 ,Mbabane	 ,Swazi ,English
+57	Ethiopia				 ,March Forward, Dear Mother Ethiopia
+58	Fiji			 ,Fijian ,English ,Fiji Hindi	 ,Rotuman
+59	Finland	Finnish	 ,Sámi	 ,Evangelical Lutheran Church ,Orthodox Church	 ,Finnish ,Finn
+60	France				 ,French
+61	Gabon	Libreville	 ,French	 ,Fang ,Myene ,Punu ,Nzebi	
+62	Gambia			 ,Serekunda	 ,English
+63	Georgia				
+64	Germany			 ,German	 ,Germans ,Turks ,Poles ,Russians
+65	Ghana	Accra	 ,English	 ,Asante Twi ,Akuapem Twi ,Bono ,Dagaare ,Dagbani ,Dangme ,Ewe ,Ga ,Gonja ,Kasem ,Mampruli ,Fante ,Nzema ,Wasa ,Talensi ,Frafra ,Kusaal ,Hausa ,Ghanaian Sign Language	 ,Akans ,Mole-Dagbani ,Ewe ,Ga-Adangbe ,Konkomba ,Guan ,Gurunsi ,kusasi ,Bissa
+66	Greece	Athens	 ,Greek	 ,Eastern Orthodoxy	 ,Greek
+67	Grenada	St. George's		 ,Grenadian Creole English ,Grenadian Creole French	 ,African ,Mixed ,East Indian
+68	Guatemala	La Granadera			
+69	Guinea				 ,Fulani ,Mandinka ,Susu
+70	Guinea-Bissau			 ,Portuguese	 ,Upper Guinea Creole
+71	Guyana			 ,English	 ,Akawaio ,Macushi ,Waiwai ,Arawak (Lokono) ,Patamona ,Warrau ,Carib ,Wapishana ,Pemon (Arekuna) ,Mawayana
+72	Haiti			 ,French ,Haitian Creole	 ,black ,mixed ,white
+73	Honduras			 ,Spanish	 ,Mestizo ,Amerindian ,Afro-Honduran
+74	Hungary	Hungarian	 ,Hungarians ,Romani ,Germans	 ,Christianity ,Catholicism ,Protestantism ,Orthodox Church ,Judaism ,Buddhism	 ,Hungarian
+75	Iceland	Reykjavík	 ,Icelandic	 ,Icelandic ,Polish ,Lithuanian	 ,Religion in Iceland
+76	India				 ,Hindi ,English
+77	Indonesia	Jakarta	 ,Indonesian	 ,700 languages	 ,300 ethnic groups
+78	Iran	Tehran	 ,Persian	 ,Persian ,Azerbaijani ,Turkic dialects ,Qashqai ,Turkmen ,Kurdish ,Gilak ,Mazanderani ,Luri ,Balochi ,Arabic ,Armenian ,Assyrian ,Georgian ,Laki ,Semnani ,Talysh ,Tati	 ,Persian ,Azerbaijani ,Kurdish ,Lur ,Bakhtiari ,Turkmen ,other Turkic tribes ,Baloch ,Arab
+79	Iraq	Baghdad	 ,Arabic ,Kurdish	 ,Islam	 ,Iraqi
+80	Ireland		 ,Atlantic Ocean		
+81	Israel	Jerusalem	 ,Hebrew	 ,Arabic	 ,Jewish ,Arab ,other
+82	Italy	Rome	 ,Italian	 ,see full list	 ,Italians
+83	Jamaica			 ,English	 ,Jamaican Patois ,de facto
+84	Japan	Tokyo	 ,Japanese	 ,Japanese ,Korean ,Chinese ,Other	 ,Shinto ,Buddhism ,Shinto sects ,Christianity
+85	Jordan			 ,Arabic	 ,Arab ,Circassian ,Chechens ,Armenian
+86	Kazakhstan	Almaty	 ,Kazakh ,Russian	 ,Cyrillic ,Latin	 ,Kazakh ,Russian ,Uzbek ,Ukrainian ,Uyghur ,Tatar ,German ,others
+87	Kenya				 ,English ,Swahili
+88	Kiribati				 ,English ,Gilbertese
+89	Kosovo	Pristina	 ,Albanian ,Serbian	 ,Bosnian ,Turkish ,Romani	
+90	Kuwait	Kuwait City	 ,Arabic	 ,Kuwaiti ,Arabs	 ,Islam ,Christianity
+91	Kyrgyzstan	Kyrgyz	 ,Kyrgyz ,Uzbek ,Russian ,Dungan ,Other	 ,Islam ,Christianity	
+92	Laos			 ,Pheng Xat Lao	
+93	Latvia	Latvian		 ,Latvian	 ,Unitary ,parliamentary ,constitutional republic
+94	Lebanon	Beirut	 ,Arabic	 ,Lebanese Arabic	 ,Muslim ,Christian ,Druze
+95	Lesotho			 ,Sesotho ,English	 ,Basotho
+96	Liberia			 ,English	 ,Liberian English
+97	Libya	Tripoli	 ,Arabic	 ,Libyan Arabic ,Berber	 ,Teda ,Italian
+98	Liechtenstein		 ,Vaduz		 ,German
+99	Lithuania	Vilnius	 ,Lithuanian	 ,Polish ,Russian	 ,Lithuanians ,Poles ,Russians ,Belarusians ,Ukrainians ,other
+100	Luxembourg	Luxembourg City	 ,Luxembourgish ,French ,German	 ,Luxembourgers ,Portuguese ,French ,Germans	
+101	Madagascar			 ,Malagasy ,French	 ,Merina ,Betsimisaraka ,Betsileo ,Tsimihety ,Sakalava ,Antaisaka ,Antandroy ,others
+102	Malawi	Lilongwe	 ,English ,Chichewa	 ,Yao ,Tumbuka ,Tonga ,Sena ,Lomwe ,Ngonde ,Lambya	 ,Chewa ,Lomwe ,Yao ,Ngoni ,Tumbuka ,Nyanja ,Sena ,Mang'anja ,Tonga ,Ngonde ,Lambya ,Sukwa
+103	Malaysia	Kuala Lumpur		 ,Malay	 ,English
+104	Maldives	Malé	 ,Dhivehi	 ,English	 ,Maldivians
+105	Mali			 ,French	 ,Bambara
+106	Malta	Valletta	 ,St. Paul's Bay	 ,Maltese ,English	 ,Italian
+107	Marshall_Islands		 ,free association		 ,English ,Marshallese
+108	Mauritania				 ,Arabic
+109	Mauritius				 ,Creole ,Bhojpuri ,French
+110	Mexico	federal level	 ,Spanish ,Amerindian languages	 ,Spanish	 ,56 Amerindian ,diverse foreign ethnic groups
+111	Micronesia	Kiribati	 ,Marshall Islands	 ,Nauru	 ,Northern Mariana Islands
+112	Moldova	Chișinău	 ,Romanian ,Moldovan	 ,Bulgarian ,Gagauz ,Ukrainian	 ,Russian
+113	Monaco	Monaco-Ville	 ,Monte Carlo	 ,French	 ,Monégasque ,Italian ,Occitan ,Provençal
+114	Mongolia	Mongolian	 ,Mongolian Cyrillic ,Mongolian script	 ,Mongols ,Kazakhs	 ,Buddhism ,Islam ,Shamanism ,Christianity
+115	Montenegro	Podgorica	 ,Montenegrin ,Serbian ,Bosnian ,Albanian ,Croatian	 ,Latin ,Cyrillic	 ,Montenegrins ,Serbs ,Bosniaks ,Albanians ,Croats
+116	Morocco	Rabat		 ,Arabic ,Berber	 ,Moroccan Arabic ,Berber ,Hassaniya Arabic
+117	Mozambique	Portuguese		 ,Unitary ,dominant-party ,semi-presidential ,constitutional republic	
+118	Myanmar	Naypyidaw	 ,Yangon	 ,Burmese	 ,Kachin ,Kayah ,Karen ,Chin ,Mon ,Rakhine ,Shan
+119	Namibia	[5]			
+120	Nauru	de jure	 ,Denigomodu	 ,Nauruan ,English	 ,Nauruan ,Pacific Islander
+121	Nepal			 ,Nepali	 ,All languages used in Nepal
+122	Netherlands			 ,The Hague	 ,Dutch
+123	New_Zealand	Auckland	 ,English ,Māori ,NZ Sign Language	 ,European ,Māori ,Asian ,Pacific peoples ,ME ,LA ,African	 ,New Zealander ,Kiwi
+124	Nicaragua			 ,Spanish	 ,English ,Miskito ,Rama ,Sumo ,Miskito Coastal Creole ,Garifuna ,Rama Cay Creole
+125	Niger			 ,French	 ,Arabic ,Buduma ,Fulfulde ,Gourmanchéma ,Hausa ,Kanuri ,Zarma & Songhai ,Tamasheq ,Tassawaq ,Tebu
+126	Nigeria	Abuja		 ,English	 ,Hausa ,Igbo ,Yoruba
+127	North_Korea	Korean	 ,Chosŏn'gŭl	 ,North Korean ,Korean	 ,Unitary ,one-party ,republic
+128	North_Macedonia	Macedonian	 ,Turkish ,Romani ,Serbian ,Bosnian ,Aromanian	 ,Macedonians ,Albanians ,Turks ,Romani ,Serbs ,Bosniaks ,Aromanians	
+129	Norway			 ,Norwegian ,Bokmål ,Nynorsk ,Sámi ,Northern ,Lule ,Southern	 ,Kven ,Romani ,Romanes
+130	Oman	Muscat	 ,Arabic	 ,Islam	 ,Omani
+131	Pakistan	Islamabad		 ,English ,Urdu	 ,Provincial level ,Punjabi ,Pashto ,Sindhi ,Balochi ,Saraiki ,Kashmiri ,Brahui ,Hindko ,Shina ,Balti ,Khowar ,Burushaski ,Kohistani ,Wakhi ,Yidgha ,Dameli ,Kalasha ,Gawar-Bati ,Domaaki
+132	Palau	free association			 ,English ,Palauan ,Japanese ,Sonsorolese ,Tobian
+133	Palestine				
+134	Panama			 ,Spanish	 ,Mestizo ,Native Panamanians ,Afro-Panamanian ,Mulatto ,White Panamanian
+135	Papua_New_Guinea			 ,English ,Hiri Motu ,PNG Sign Language ,Tok Pisin	 ,851 languages
+136	Paraguay			 ,Spanish ,Guarani	 ,Mestizo
+137	Peru	Himno Nacional de Perú			
+138	Philippines				 ,Filipino ,English
+139	Poland	Warsaw	 ,Polish	 ,Kashubian	 ,Polish ,others or not stated
+140	Portugal	Portuguese	 ,Mirandese	 ,Portuguese	 ,Roman Catholic ,Christians
+141	Qatar	Doha	 ,Arabic	 ,English	 ,Qatari
+142	Romania	Romanian	 ,Albanian ,Armenian ,Bulgarian ,Croatian ,Czech ,German ,Greek ,Italian ,Yiddish ,Macedonian ,Hungarian ,Polish ,Romani ,Russian ,Ruthenian ,Serbian ,Slovak ,Tatar ,Turkish ,Ukrainian	 ,Romanians ,Hungarians ,Romani ,Ukrainians ,Germans	 ,Romanian
+143	Russia	Russian	 ,Languages of Russia	 ,Russian ,Tatar ,Ukrainian ,Armenian ,Bashkir ,Chuvash	
+144	Rwanda			 ,English ,French ,Kinyarwanda ,Swahili	
+145	Saint_Kitts_and_Nevis			 ,English	 ,Saint Kitts Creole
+146	Saint_Lucia			 ,English	 ,Saint Lucian Creole French
+147	Saint_Vincent_and_the_Grenadines	Kingstown	 ,English	 ,Vincentian Creole	 ,Black (African) ,Mixed ,Indian ,European ,Island Caribs ,Black Caribs
+148	Samoa			 ,English ,Samoan	 ,Samoans ,Euronesians ,Europeans ,East Asian
+149	San_Marino	San Marino		 ,Italian	 ,Roman Catholicism
+150	Sao_Tome_and_Principe			 ,Portuguese	 ,Forro ,Angolar ,Principense
+151	Saudi_Arabia	Riyadh	 ,Arabic	 ,Arabic	 ,Sunni Islam
+152	Senegal			 ,French ,Wolof	 ,Wolof
+153	Serbia	Serbian	 ,Hungarian ,Bosnian ,Albanian ,Croatian ,Slovak ,Romanian ,Bulgarian ,Rusyn	 ,Serbs ,Hungarians ,Roma ,Bosniaks ,Kosovo	 ,Serbian
+154	Seychelles	Victoria	 ,English ,French ,Seychellois Creole	 ,Creoles ,British ,Indian	
+155	Sierra_Leone			 ,English	 ,Islam ,Christianity
+156	Singapore		 ,Majulah Singapura		
+157	Slovakia	Bratislava	 ,Slovak	 ,Slovaks ,Hungarians ,Roma ,Czechs ,Rusyns ,Ukrainians ,Germans ,Poles ,Moravians	 ,Slovak
+158	Slovenia	Ljubljana	 ,Slovene	 ,Slovenes ,Serbs ,Croats ,Bosniaks ,Istrian Italians	 ,Catholicism ,Islam ,Serbian Orthodoxy ,Lutheranism
+159	Solomon_Islands			 ,English	 ,Melanesian ,Polynesian ,Micronesian
+160	Somalia	Mogadishu	 ,Somali ,Arabic	 ,English ,Italian	 ,Islam
+161	South_Africa				
+162	South_Korea	Seoul	 ,Korean ,Pyojun-eo ,Korean Sign Language	 ,Korean	 ,Korean
+163	South_Sudan			 ,English	 ,Bari ,Dinka ,Luo ,Murle ,Nuer ,Zande
+164	Spain		 ,Plus ultra ,Latin	 ,Marcha Real ,Spanish	
+165	Sri_Lanka	Sri Jayawardenepura Kotte	 ,Colombo	 ,Sinhala ,Tamil	 ,English
+166	Sudan			 ,Sudanese Arabic ,English	 ,Sudanese Arabic
+167	Suriname			 ,Dutch	 ,Akurio ,Arawak-Lokono ,Carib-Kari'nja ,Sikiana-Kashuyana ,Tiro-Tiriyó ,Waiwai ,Warao ,Wayana
+168	Sweden	Stockholm	 ,Swedish ,Finnish ,Meänkieli ,Sami ,Romani ,Yiddish		 ,Swedish ,Swede
+169	Switzerland	de jure	 ,Zürich	 ,German ,French ,Italian ,Romansh	 ,Swiss ,German ,French ,Italian ,Romansh
+170	Syria	Damascus	 ,Arabic	 ,Syrian Arabs ,Arameans ,Kurds ,Turkomans ,Assyrians ,Circassians ,Armenians	 ,Islam ,Christianity ,Druzism
+171	Taiwan	New Taipei	 ,Formosan languages ,Taiwanese Hakka ,Taiwanese ,Taiwanese Mandarin ,Matsu ,Taiwan Sign Language	 ,Buddhism ,Taoism ,irreligious	 ,Taiwanese
+172	Tajikistan	Tajik	 ,Russian	 ,Tajik ,Uzbek ,Kyrgyz ,Russian	
+173	Tanzania		 ,Dodoma ,de jure	 ,Dar es Salaam	 ,Swahili
+174	Thailand	Bangkok	 ,Thai	 ,Isan ,Kam Mueang ,Pak Tai	 ,Thais ,Central Thai ,Lao ,Thai Chinese ,Khon Muang ,Southern Thai ,Thai Khmer ,Karen ,Malay ,Mon ,Hill tribes
+175	Timor-Leste			 ,Portuguese ,Tetum	 ,Atauru ,Baikeno ,Bekais ,Bunak ,Fataluku ,Galoli ,Habun ,Idalaka ,Kawaimina ,Kemak ,Makalero ,Makasae ,Makuva ,Mambai ,Tokodede
+176	Togo			 ,French	 ,Ewe ,Kabiyé
+177	Tonga			 ,English ,Tongan	 ,Tongan ,Euronesians
+178	Trinidad_and_Tobago				 ,English
+179	Tunisia			 ,Arabic	 ,Tunisian Arabic ,Berber ,French
+180	Turkey	Istanbul	 ,Turkish	 ,Turkish ,Kurmanji ,Zaza ,Laz ,Kabardian-Cherkess ,Bosnian ,Syrian Arabic ,various others	 ,Turks ,Kurds ,Arabs ,Laz ,Circassians ,Bosnians ,various others
+181	Turkmenistan	Turkmen	 ,Russian	 ,Turkmen ,Uzbek ,Russian ,Kazakh ,others	 ,Islam ,Christianity ,others
+182	Tuvalu	Funafuti	 ,Tuvaluan	 ,Polynesian	 ,Christian ,Church of Tuvalu
+183	Uganda		 ,Kampala	 ,English ,Swahili	
+184	Ukraine	Ukrainian	 ,Ukrainians ,Russians	 ,Ukrainian	 ,Unitary ,semi-presidential ,constitutional republic
+185	United_Arab_Emirates	Abu Dhabi		 ,Arabic	 ,Indian ,Emirati ,Pakistani ,Bangladeshi ,Filipino ,Egyptian
+186	United_Kingdom	London	 ,English	 ,Scots ,Ulster Scots ,Welsh ,Cornish ,Scottish Gaelic ,Irish	 ,White ,Asian ,Black ,Mixed
+187	United_States_of_America	In God We Trust	 ,The Star-Spangled Banner ,The Stars and Stripes Forever		
+188	Uruguay			 ,Spanish	 ,Portuguese
+189	Uzbekistan	Uzbek	 ,Karakalpak ,Karakalpakstan	 ,Russian	 ,Uzbeks ,Tajiks ,Kazakhs ,Russians ,Karakalpaks ,Tatars
+190	Vanuatu			 ,Bislama ,English ,French	 ,Ni-Vanuatu
+191	Vatican_City	Italian	 ,Roman Catholicism	 ,Unitary ,absolute monarchy ,ecclesiastical ,elective ,theocracy	
+192	Venezuela	Caracas	 ,Spanish	 ,26 languages ,Piapoco ,Baniwa ,Locono ,Wayúu ,Warao ,Pemón ,Panare ,Yek'uana ,Yukpa ,Carib ,Akawaio ,Japrería ,Mapoyo ,Yawarana ,Hodï ,Puinave ,Jivi ,Barí ,Uruak ,Sapé ,Pumé ,Piaroa ,Yanomamö ,Sanemá ,Yanam ,Yeral	 ,Mestizo ,European (White) ,African (Black) ,Amerindians
+193	Vietnam	Hanoi	 ,Ho Chi Minh City		 ,Vietnamese
+194	Yemen		 ,Sana'a ,de jure ,Ataq	 ,Sana'a	 ,Arabic
+195	Zambia			 ,English	 ,Bemba ,Nyanja ,Tonga ,Lozi ,Chewa ,Nsenga ,Tumbuka ,Lunda ,Kaonde ,Lala ,Lamba ,English ,Luvale ,Mambwe ,Lenje ,Namwanga ,Bisa ,Ila ,Mbunda ,Ngoni ,Senga ,Lungu
+196	Zimbabwe				
